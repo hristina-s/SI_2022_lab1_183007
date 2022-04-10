@@ -1,0 +1,5 @@
+Bread x2
+Eggs x10
+Milk x1
+Pasta x3
+Chocolate x5
