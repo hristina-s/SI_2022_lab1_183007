@@ -1,0 +1,27 @@
+Команди:
+
+ 1. git clone https://github.com/hristina-s/SI_2022_lab1_183007 - клонирање на репозиториум
+ 2. git add . - додавање на текстуалната датотека
+ 3. git commit -m "Add 5 items to the shopping list" - commit со порака
+ 4. git push - синхронизација со remote репозиториумот
+ 5. git commit -a -m "“Add quantities to the items" - нов commit
+ 6. git push - синхронизација со remote репозиториумот
+ 7. git branch branch1 - креирање на првата гранка
+ 8. git branch branch2 - креирање на втората гранка
+ 9. git push --a -u - синхронизација со remote репозиториумот
+10. git checkout branch1 - префрлање на гранката branch1
+11. git commit -a -m "Change quantity of item #5" - промена на количина на петтата ставка
+12. git checkout master - префрлање на гранката master
+13. git commit -a -m "Change quantity of item #2" - промена на количина на втората ставка
+14. git push
+15. git checkout branch2 - префрлање на гранката branch2
+16. git commit -a -m "Modify item #4" - промена на името на четвртата ставка
+17. git push
+18. git commit -a -m "Modify item #4 and add item #6" - додавање на шестта ставка
+19. git push
+20. git checkout master - префрлање на гранката master
+21. git commit -a -m "Merge branch1 to master"
+22. git merge branch1 - спојување на гранката branch1 со master
+23. git commit -a -m "Merge branch2 to master"
+24. git merge branch2 - спојување на гранката branch2 со master
+25. git push
