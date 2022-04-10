@@ -1,9 +1,15 @@
 Bread x2
 Eggs x8
 Milk x1
+<<<<<<< HEAD
 Pasta x3
 <<<<<<< HEAD
 Chocolate x4
 =======
 Chocolate x3
 >>>>>>> branch1
+=======
+Juice x3
+Chocolate x3
+Soup x2
+>>>>>>> branch2
