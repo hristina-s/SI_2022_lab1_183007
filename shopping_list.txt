@@ -1,5 +1,5 @@
 Bread x2
-Eggs x10
+Eggs x8
 Milk x1
 Pasta x3
-Chocolate x5
+Chocolate x4
