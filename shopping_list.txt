@@ -3,3 +3,4 @@ Eggs x8
 Milk x1
 Juice x3
 Chocolate x3
+Soup x2
